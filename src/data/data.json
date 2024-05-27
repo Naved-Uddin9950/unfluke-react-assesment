@@ -1,0 +1,93 @@
+[
+    {
+        "rank": 1,
+        "name": "Selling with re entry",
+        "ratio": 3.96,
+        "profit": 381845,
+        "daily": 319.54,
+        "win": 0.65,
+        "action": "View"
+    },
+    {
+        "rank": 2,
+        "name": "strategy_name",
+        "ratio": 3.62,
+        "profit": 268872.5,
+        "daily": 216.31,
+        "win": 0.64,
+        "price": 500,
+        "action": "Buy"
+    },
+    {
+        "rank": 3,
+        "name": "Based on premium and",
+        "ratio": 3.42,
+        "profit": 255425,
+        "daily": 208.51,
+        "win": 0.64,
+        "action": "View"
+    },
+    {
+        "rank": 4,
+        "name": "strategy_name",
+        "ratio": 3.22,
+        "profit": 370845,
+        "daily": 303.47,
+        "win": 0.65,
+        "action": "View"
+    },
+    {
+        "rank": 5,
+        "name": "strategy_name",
+        "ratio": 3.22,
+        "profit": 370845,
+        "daily": 303.47,
+        "win": 0.65,
+        "action": "View"
+    },
+    {
+        "rank": 6,
+        "name": "Based on premium wit",
+        "ratio": 3.01,
+        "profit": 135980,
+        "daily": 185.77,
+        "win": 0.49,
+        "action": "View"
+    },
+    {
+        "rank": 7,
+        "name": "strategy_name",
+        "ratio": 2.76,
+        "profit": 267867.5,
+        "daily": 218.49,
+        "win": 0.6,
+        "action": "View"
+    },
+    {
+        "rank": 8,
+        "name": "Wait and trade_Save",
+        "ratio": 3.62,
+        "profit": 178252.5,
+        "daily": 161.9,
+        "win": 0.63,
+        "action": "View"
+    },
+    {
+        "rank": 9,
+        "name": "iron condor",
+        "ratio": 3.44,
+        "profit": 176420,
+        "daily": 137.51,
+        "win": 0.65,
+        "action": "View"
+    },
+    {
+        "rank": 10,
+        "name": "strategy_name",
+        "ratio": 3.04,
+        "profit": 244555,
+        "daily": 198.66,
+        "win": 0.62,
+        "action": "View"
+    }
+]
